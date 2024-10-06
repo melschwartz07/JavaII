@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bank;
 
 import java.util.ArrayList;
 import java.util.List;

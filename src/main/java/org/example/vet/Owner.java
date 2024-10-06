@@ -1,4 +1,4 @@
-package org.example;
+package org.example.vet;
 
 // Class representing the owner of the animal
 public class Owner {

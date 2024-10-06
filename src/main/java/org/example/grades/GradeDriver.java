@@ -1,4 +1,4 @@
-package org.example;
+package org.example.grades;
 
 import java.util.Scanner;
 

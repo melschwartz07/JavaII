@@ -1,4 +1,4 @@
-package org.example;
+package org.example.shape;
 
 class Rectangle {
     // Attributes for length and width of the rectangle

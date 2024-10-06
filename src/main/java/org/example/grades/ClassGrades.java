@@ -1,8 +1,7 @@
-package org.example;
+package org.example.grades;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 // Manages a collection of student grades for a class
 public class ClassGrades {

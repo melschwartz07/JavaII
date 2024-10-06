@@ -1,4 +1,4 @@
-package org.example;
+package org.example.shape;
 
 class Triangle {
     // Attributes for length and width (base and height) of the triangle

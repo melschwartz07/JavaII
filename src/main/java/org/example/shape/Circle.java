@@ -1,4 +1,4 @@
-package org.example;
+package org.example.shape;
 
 class Circle {
     // Attribute for radius of the circle

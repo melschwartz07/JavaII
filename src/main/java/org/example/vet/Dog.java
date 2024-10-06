@@ -1,4 +1,4 @@
-package org.example;
+package org.example.vet;
 
 public class Dog extends Animal {
     public Dog(String name, int age) {
