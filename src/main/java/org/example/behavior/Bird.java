@@ -1,7 +1,7 @@
 package org.example.behavior;
 
 // Subclass representing a bird
-public class Bird extends Animal {
+public class Bird extends Animals {
     // Override the move method to specify how a bird moves (flies)
     @Override
     public void move() {

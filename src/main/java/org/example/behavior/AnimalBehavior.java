@@ -4,8 +4,8 @@ package org.example.behavior;
 public class AnimalBehavior {
     public static void main(String[] args) {
         // Create a bird and panthera object
-        Animal bird = new Bird();
-        Animal panthera = new Panthera();
+        Animals bird = new Bird();
+        Animals panthera = new Panthera();
 
         // Call move and makeSound methods on bird
         System.out.println("Bird:");

@@ -1,4 +1,4 @@
-package org.example.medical;
+package org.example.vet;
 
 import java.util.List;
 import java.util.ArrayList;

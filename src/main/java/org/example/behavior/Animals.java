@@ -1,7 +1,7 @@
 package org.example.behavior;
 
 // Base class representing general animal behavior
-public class Animal {
+public class Animals {
     // Method to describe how the animal moves
     public void move() {
         System.out.println("This animal moves.");
