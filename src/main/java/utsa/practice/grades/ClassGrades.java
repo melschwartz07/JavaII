@@ -1,4 +1,4 @@
-package org.example.grades;
+package utsa.practice.grades;
 
 import java.util.ArrayList;
 import java.util.List;

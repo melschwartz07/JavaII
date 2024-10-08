@@ -1,4 +1,4 @@
-package org.example.vet;
+package utsa.practice.vet;
 
 public class Bird extends Animal {
     public Bird(String name, int age) {

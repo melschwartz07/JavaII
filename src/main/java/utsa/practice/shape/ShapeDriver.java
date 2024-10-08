@@ -1,4 +1,4 @@
-package org.example.shape;
+package utsa.practice.shape;
 import java.util.Scanner;
 
 /**

@@ -1,4 +1,4 @@
-package org.example.shape;
+package utsa.practice.shape;
 
 class Triangle {
     // Attributes for length and width (base and height) of the triangle

@@ -1,4 +1,4 @@
-package org.example.bank;
+package utsa.practice.bank;
 
 import java.util.ArrayList;
 import java.util.List;

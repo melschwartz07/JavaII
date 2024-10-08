@@ -1,4 +1,4 @@
-package org.example.vet;
+package utsa.practice.vet;
 
 import java.util.Scanner;
 

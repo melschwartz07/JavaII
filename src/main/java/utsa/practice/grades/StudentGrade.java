@@ -1,4 +1,4 @@
-package org.example.grades;
+package utsa.practice.grades;
 
 // Represents the grade information for a student
 public class StudentGrade {

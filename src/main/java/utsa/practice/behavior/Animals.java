@@ -1,4 +1,4 @@
-package org.example.behavior;
+package utsa.practice.behavior;
 
 // Base class representing general animal behavior
 public class Animals {

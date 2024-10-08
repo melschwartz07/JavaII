@@ -1,4 +1,4 @@
-package org.example.vet;
+package utsa.practice.vet;
 
 // Class representing the veterinary clinic
 import java.util.ArrayList;

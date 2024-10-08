@@ -1,4 +1,4 @@
-package org.example.vet;
+package utsa.practice.vet;
 
 // Base class representing general biographical data about animals
 public class Animal {

@@ -1,4 +1,4 @@
-package org.example.behavior;
+package utsa.practice.behavior;
 
 // Driver class to test animal behavior
 public class AnimalBehavior {

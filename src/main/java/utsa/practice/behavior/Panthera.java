@@ -1,4 +1,4 @@
-package org.example.behavior;
+package utsa.practice.behavior;
 
 // Subclass representing a panthera (could be a lion, tiger, etc.)
 public class Panthera extends Animals {

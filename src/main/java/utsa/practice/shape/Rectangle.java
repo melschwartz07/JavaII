@@ -1,4 +1,4 @@
-package org.example.shape;
+package utsa.practice.shape;
 
 class Rectangle {
     // Attributes for length and width of the rectangle

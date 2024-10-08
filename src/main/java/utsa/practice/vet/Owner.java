@@ -1,4 +1,4 @@
-package org.example.vet;
+package utsa.practice.vet;
 
 // Class representing the owner of the animal
 public class Owner {

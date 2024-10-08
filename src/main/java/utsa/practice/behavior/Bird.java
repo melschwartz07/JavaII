@@ -1,4 +1,4 @@
-package org.example.behavior;
+package utsa.practice.behavior;
 
 // Subclass representing a bird
 public class Bird extends Animals {
